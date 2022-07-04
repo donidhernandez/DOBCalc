@@ -8,5 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="textColor">#eae2b7</color>
-    <color name="bgColor">#003049</color>
+    <color name="bgColor">#283044</color>
+    <color name="bgBtn">#f77f00</color>
+    <color name="lightGray">#d6d6d6</color>
+    <color name="barColor">#00296b</color>
 </resources>
